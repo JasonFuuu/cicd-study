@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/Users/fuxianglun/PycharmProjects/cicd-study/.venv/lib/python3.12/site-packages")
+sys.path.append("/Users/fuxianglun/site-packages")
 import requests
 
 class Test:
